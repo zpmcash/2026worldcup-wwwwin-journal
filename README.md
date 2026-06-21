@@ -1,2 +1,14 @@
 # 2026worldcup-wwwwin-journal
-HTML page archive and documentation
+
+静态页面保存仓库
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
